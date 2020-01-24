@@ -100,6 +100,8 @@ public class ClaseString {
                     + " contenido = " + arrayChar[i]);
         }
         
+        System.out.println("Hey, soy chiri, en el proyecto de gabi");
+        
     }
     
 }
